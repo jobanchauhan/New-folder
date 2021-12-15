@@ -1,0 +1,15 @@
+.my-style {
+  background-color: #1A374D;
+  color: #6998AB;
+  border: 3px solid #000; 
+}
+
+#my-id {
+  background-color: #3E8E7E;
+  color: #FABB51;
+}
+
+p {
+  background-color: #000000;
+  color: #B85252;
+}
